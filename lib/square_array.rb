@@ -4,7 +4,8 @@ def square_array(array)
    while i < array.size
     result[i] = array[i] ** 2
     i += 1
-  end
+   end
   result
 end
 end
+end 
