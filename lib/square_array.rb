@@ -7,5 +7,3 @@ def square_array(array)
    end
   result
 end
-end
-end 
