@@ -1,3 +1,4 @@
 def square_array(array)
-  array.select { |n| n * n }
+  while array.select do |n|
+    n * n 
 end
