@@ -1,4 +1,4 @@
 def square_array(array)
- while array.collect do 
+ while array.collect do
    num * num 
 end
