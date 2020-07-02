@@ -1,3 +1,3 @@
 def square_array(array)
-  array.map { |n| n * n }
+  array.map { |n| n * 2 }
 end
