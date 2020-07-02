@@ -1,3 +1,3 @@
 def square_array(array)
-  array.collect { |n| n * n }
+  array.each { |n| n * n }
 end
